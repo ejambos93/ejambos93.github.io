@@ -23,25 +23,12 @@ body {
     float: left;
 }
 
-.columna1 {
+.columna {
     width: 215px;
     height: 300px;
+    margin-right: 5px;
     float: left;
     margin-left: 0px;
-}
-
-.columna2 {
-    margin-left: 5px;
-    width: 220px;
-    height: 300px;
-    float: left;
-}
-
-.columna3 {
-    margin-left: 5px;
-    width: 215px;
-    height: 300px;
-    float: left;
 }
 
 li {
